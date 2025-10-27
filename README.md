@@ -1,4 +1,6 @@
-# Project Name
+Worthy Nomad is a web page about Mental health awareness.
+
+
 
 A short sentence about what your project does.  
 Example: “This project is a simple website that shows random quotes.”

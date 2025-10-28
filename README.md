@@ -20,6 +20,8 @@ The build
 
 With the repository in GitHub and a folder created for VS Code I began by creating the boilerplate using shorthand ! [TAB] then copy and pasted the links to bootstrap.  Then the structure was started using AI.
 
+I enabled the Live Server extension in VSCode so I could track progress in my browser.
+
 The *Navbar* was created with this prompt to co-pilot. 
 "create a responsive navbar element with links to home, about, support, tips and GET HELP NOW"
 The colour of the GET HELP NOW button was changed from 'danger' to 'warning'
@@ -48,6 +50,11 @@ I wanted to link each of the 6 cards to seperate pages which could be themed dif
 Co-pilot asked "Or if you want the entire card to be clickable, wrap the whole card:" and gave me the code to do this.  This is the code I chose to use.
 
 Underneath the Individual Cards section, I created the 'support' section, the 'Useful links' section and the 'Tips for mental Wellbeing' section, to be fleshed out at a leter time.
+
+Anchor links were put on each of the Navbar buttons with corresponding id="" on the relevant sections.
+
+
+
 
 
 

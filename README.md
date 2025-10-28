@@ -47,6 +47,8 @@ A background-color was chosen for the cards and footer sections from the colour 
 I wanted to link each of the 6 cards to seperate pages which could be themed differently to reflect the subject more appropriately.  Using this prompt "how do I make the heading on a card a link to another page" I created the 'Men' page and linked the 'Men' card to that page.
 Co-pilot asked "Or if you want the entire card to be clickable, wrap the whole card:" and gave me the code to do this.  This is the code I chose to use.
 
+Underneath the Individual Cards section, I created the 'support' section, the 'Useful links' section and the 'Tips for mental Wellbeing' section, to be fleshed out at a leter time.
+
 
 
 

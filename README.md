@@ -53,7 +53,7 @@ Underneath the Individual Cards section, I created the 'support' section, the 'U
 
 Anchor links were put on each of the Navbar buttons with corresponding id="" on the relevant sections.
 
-HTML pages were added for children, men, women, workplace, pensioners and young adults so that the message could be tailored to different groups.  The navbar and footer were copied over to each page to maintain consistency accross the site.
+HTML pages were added for children, men, women, workplace, pensioners and young adults so that the message could be tailored to different groups.  The navbar and footer were copied over to each page to maintain consistency and continuity accross the site.
 
 
 

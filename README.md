@@ -159,10 +159,8 @@ VSCode
 HTML  
 CSS  
 Bootstrap  
-Co-pilot
-Blood
-Sweat
-Tears
+Co-pilot  
+Blood, Sweat, Tears
 
 
 ## Accessibility and Performance

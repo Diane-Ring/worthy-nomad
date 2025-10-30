@@ -200,11 +200,13 @@ Ultimately it was a background assistant, and was invaluable in the building of 
 
 ## Future developement 
 
+As I worked through the build of this website, I used mainly inline styling.  For future development I would move the majority of styling to the style.css folder.  
+I would like to expand on the Tips section to include more helpful advice, maybe links to appropriate YouTube videos, facebook pages, instagram stories.   
+A page on common mental health issues and their sypmptoms would be a welcome addition. 
+Also information on physical contributors to poor mental health could be really helpful.  
+There is a website that generates Positive Afirmations on demand.  I think it would be good to include an Affirmation of the Day as well.  
 
-
-
-
-
+# ..
 This site is published on GitHub pages at this address:
 https://diane-ring.github.io/worthy-nomad/  
 <img src="assets/images/worthy-nomad-logo-notext-transparent.png" alt="Worthy Nomad Logo" width="5%">

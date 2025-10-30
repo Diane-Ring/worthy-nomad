@@ -97,7 +97,7 @@ Underneath the Individual Cards section, I created the 'Support and Useful links
 
 These sections had different background colours to denote different sections.  
 
-![alt text="screenshot of Support section and tips section](assets/images/support-tips-screenshot.png)
+![alt text="screenshot of Support section and tips section](assets/images/amended-support-screenshot.png)
 
 
 ### Footer
@@ -163,11 +163,22 @@ Co-pilot
 The website was checked against the WCAG guidelines to ensure the web content is sufficiently accessible to people with disabilities with this site https://accessibilitycheck.friendlycaptcha.com/
 
 Initially the score was 92%.  
-One issue was the absence of a Captcha to protect against spam.  As we have not learned this and it is not in the criteria, I did not add a Captch, but I will bear this in mind in future projects if applicable.
 
-One issue I can solve is the links in the 'Useful Links' section had insufficient colour contrast of 4.5, when the expected is 7.1.  This can be solved by putting the links into buttons or having a contrasting background on this section.
+One comment issue was the absence of a Captcha to protect against spam.  As we have not learned this and it is not in the criteria, I did not add a Captch, but I will bear this in mind in future projects if applicable.
 
-Another issue is that the social media links do not have discernable text that is visible to screen readers.  This can be solved by including an aria-label.
+One issue I can solve is the links in the 'Useful Links' section had insufficient colour contrast of 4.5, when the expected is 7.1.  This was be solved by putting the links into buttons or having a contrasting background on this section. 
+
+Before the links were amended to buttons.               
+ ![alt text="Support page showing blue links"](assets/images/support-tips-screenshot.png)  
+ After the buttons were amended
+
+![alt text="Support page showing blue links"](assets/images/amended-support-snapshot.png)  
+
+Another issue is that the social media links do not have discernable text that is visible to screen readers.  This was solved by including an aria-label.
+
+After these issues were addressed, the site was 100% compliant
+
+![alt text="WCAG compliance test result of 100%"](assets/images/WCAG-compliance-test.png)
 
 ## AI insights
 
@@ -178,4 +189,5 @@ Another issue is that the social media links do not have discernable text that i
 
 
 This site is published on GitHub pages at this address:
-https://diane-ring.github.io/worthy-nomad/<img src="assets/images/worthy-nomad-logo-notext-transparent.png" alt="Worthy Nomad Logo" width="5%">
+https://diane-ring.github.io/worthy-nomad/  
+<img src="assets/images/worthy-nomad-logo-notext-transparent.png" alt="Worthy Nomad Logo" width="5%">

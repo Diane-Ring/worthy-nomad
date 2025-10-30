@@ -1,5 +1,5 @@
 # Worthy Nomad <img src="assets/images/worthy-nomad-logo-notext-transparent.png" alt="Worthy Nomad Logo" width="5%">
-### A mental Health Awareness Project
+### A Mental Health Awareness Project
 
 Worthy Nomad is a web page about Mental health awareness.
 It consists of general information as well as advice and individual help for the elderly, men,  women, teenagers, children, and workplace mental health issues.
@@ -14,7 +14,7 @@ It is to show learning in HTML, CSS GitHub, VSCode and bootstrap, along with sho
 ## Steps in Preparation
 
 ### ☒ Wireframe
-   This was *initially* done using good old fashioned pencil and paper.
+   This was done using good old fashioned pencil and paper.
 
 <img src="assets/images/Hand-drawn-wireframe.jpg" alt="Wireframe sketch" width="400">
 
@@ -22,14 +22,18 @@ It is to show learning in HTML, CSS GitHub, VSCode and bootstrap, along with sho
 
 I used Microsoft Co-pilot to create user stories by using the prompt "write user stories for a basic mental health awareness website"
 
-This gave me some ideas but it was clear I needed to refine the prompt.  I included 'as a site owner' and also promted to include the criteria and task list. 
+This gave me some ideas but it was clear I needed to refine the prompt.  I included 'as a site owner' and also prompted it to include the criteria and task list. 
 
 I had a total of 35 user story ideas from co-pilot and manually contructed my user stories from these suggestions.
 
 ### 🎨 Colour Palette
 The colour palette was chosen from the image I had chosen for the Hero Image.  I used https://color.adobe.com/create/image to extract the individual colours.
 
-![alt text="colour Palette"](assets/images/colour-palette-screenshot.png)
+![alt text="colour Palette"](assets/images/colour-palette-screenshot.png)  
+
+### The Logo
+
+I aske ChatGPT to create a logo for a calming mental health awareness website.  It created one with a heart in a brain in a head.  It did not match the overall feel I was going for but I liked the heart in the brain, so I asked it to make the brain into a flower.
 
 ## 🏗️ The Build
 
@@ -189,10 +193,14 @@ The website acheived a performance of 71% on lighthouse (Dev tools)
 AI tools significantly streamlined the workflow and development of my website by accelerating ideation, design, and content refinement.  
 It generated sample code for me to structure the website and checked for mistakes when the code didnt work as expected.
 
-I used it to generate my logo, other images, drafted user stories and acceptance criteria, and ensured alignment with WCAG standards.  
+I used it to generate my logo, all other images, drafted user stories and acceptance criteria, and ensured alignment with WCAG standards. 
+
+Ultimately it was a background assistant, and was invaluable in the building of this website.
 
 
 ## Future developement 
+
+
 
 
 

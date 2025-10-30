@@ -158,7 +158,7 @@ Bootstrap
 Co-pilot
 
 
-## Accessibility 
+## Accessibility and Performance
 
 The website was checked against the WCAG guidelines to ensure the web content is sufficiently accessible to people with disabilities with this site https://accessibilitycheck.friendlycaptcha.com/
 
@@ -180,7 +180,16 @@ After these issues were addressed, the site was 100% compliant
 
 ![alt text="WCAG compliance test result of 100%"](assets/images/WCAG-compliance-test.png)
 
+The website acheived a performance of 71% on lighthouse (Dev tools)
+
+![alt text="lighthouse performance chart of 71%"](assets/images/lighthouse-performance.png)
+
 ## AI insights
+
+AI tools significantly streamlined the workflow and development of my website by accelerating ideation, design, and content refinement.  
+It generated sample code for me to structure the website and checked for mistakes when the code didnt work as expected.
+
+I used it to generate my logo, other images, drafted user stories and acceptance criteria, and ensured alignment with WCAG standards.  
 
 
 ## Future developement 

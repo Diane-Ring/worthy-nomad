@@ -33,7 +33,7 @@ The colour palette was chosen from the image I had chosen for the Hero Image.  I
 
 ### The Logo
 
-I aske ChatGPT to create a logo for a calming mental health awareness website.  It created one with a heart in a brain in a head.  It did not match the overall feel I was going for but I liked the heart in the brain, so I asked it to make the brain into a flower.
+I asked ChatGPT to create a logo for a calming mental health awareness website.  It created one with a heart in a brain in a head.  It did not match the overall feel I was going for but I liked the heart in the brain, so I asked it to make the brain into a flower.
 
 ## 🏗️ The Build
 
@@ -48,7 +48,7 @@ This was created with this prompt to co-pilot.
 The colour of the GET HELP NOW button was changed from 'danger' to 'warning'. The target was set to _blank and rel to noopener noreferrer to make it open in a seperate page. 
 
 <img src="assets/images/worthy-nomad-logo-notext-transparent.png" alt="Worthy Nomad Logo" width="3%">
-I created a logo with chat GPT, edited it, and made that the favicon and the logo on the navbar, using Co-pilot's help to modify the code. I added one of the colours from my colour palette as the background-color of my navbar.
+I made the logo I created with chat GPTthat the favicon and the logo on the navbar, using Co-pilot's help to modify the code. I added one of the colours from my colour palette as the background-color of my navbar.
 
 ![alt text="screenshot of Navbar"](assets/images/navbar-screenshot.png)
 
@@ -160,6 +160,9 @@ HTML
 CSS  
 Bootstrap  
 Co-pilot
+Blood
+Sweat
+Tears
 
 
 ## Accessibility and Performance

@@ -13,14 +13,12 @@ It is to show learning in HTML, CSS GitHub, VSCode and bootstrap, along with sho
 
 ## Steps in Preparation
 
-### Wireframe
+### ☒ Wireframe
    This was *initially* done using good old fashioned pencil and paper.
 
 <img src="assets/images/Hand-drawn-wireframe.jpg" alt="Wireframe sketch" width="400">
 
-
-
-### Users Stories 
+### 📖 Users Stories 
 
 I used Microsoft Co-pilot to create user stories by using the prompt "write user stories for a basic mental health awareness website"
 
@@ -28,9 +26,10 @@ This gave me some ideas but it was clear I needed to refine the prompt.  I inclu
 
 I had a total of 35 user story ideas from co-pilot and manually contructed my user stories from these suggestions.
 
+### 🎨 Colour Palette
+The colour palette was chosen from the image I had chosen for the Hero Image.  I used https://color.adobe.com/create/image to extract the individual colours.
 
-
-
+![alt text="colour Palette"](assets/images/colour-palette.png)
 
 ## 🏗️ The Build
 

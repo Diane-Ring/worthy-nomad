@@ -29,7 +29,7 @@ I had a total of 35 user story ideas from co-pilot and manually contructed my us
 ### 🎨 Colour Palette
 The colour palette was chosen from the image I had chosen for the Hero Image.  I used https://color.adobe.com/create/image to extract the individual colours.
 
-![alt text="colour Palette"](assets/images/colour-palette.png)
+![alt text="colour Palette"](assets/images/colour-palette-screenshot.png)
 
 ## 🏗️ The Build
 
@@ -46,18 +46,18 @@ The colour of the GET HELP NOW button was changed from 'danger' to 'warning'. Th
 <img src="assets/images/worthy-nomad-logo-notext-transparent.png" alt="Worthy Nomad Logo" width="3%">
 I created a logo with chat GPT, edited it, and made that the favicon and the logo on the navbar, using Co-pilot's help to modify the code. I added one of the colours from my colour palette as the background-color of my navbar.
 
-![alt text="screenshot of Navbar"](navbar-screenshot.png)
+![alt text="screenshot of Navbar"](assets/images/navbar-screenshot.png)
 
 ### The Header
 I added a header section with a hero image generated using co-pilot.  I then used the hero image to create my colour palette using https://color.adobe.com/create/image.  
 
-![alt text="screenshot of header](header-screenshot.png)
+![alt text="screenshot of header](assets/images/header-screenshot.png)
 
 
 ### About Us
 The next section created was the About Us section with two headings and paragraphs of text.  The background was left white to create a contrast between the header and the section below.
 
-![alt text="screenshot of about us section"](about-us-screenshot.png)
+![alt text="screenshot of about us section"](assets/images/about-us-screenshot.png)
 
 ### Tailored Help Section
 The 'We are all individual' section was created with the following prompt to co-pilot.
@@ -69,7 +69,7 @@ I hit a challenge on one of the images as I had asked co-pilot to create an imag
 
 So all my images now contain happy or neutral looking people.
 
-![alt text="tailored individual help section"](individual-screenshot.png)
+![alt text="tailored individual help section"](assets/images/individual-screenshot.png)
 
 I wanted to link each of the 6 cards to seperate pages which could be themed differently to reflect the subject more appropriately.  
 
@@ -84,11 +84,11 @@ HTML pages were added for children, men, women, workplace, pensioners and young 
 
 Here is a screen shot of the 'Men' card.
 
-![alt text="screenshot of the men card"](card-men-screenshot.png)
+![alt text="screenshot of the men card"](assets/images/card-men-screenshot.png)
 
 And this is the 'men' page.
 
-![alt text="screenshot of the men page"](page-men-screenshot.png)
+![alt text="screenshot of the men page"](assets/images/page-men-screenshot.png)
 
 ### Support and Useful links
 Underneath the Individual Cards section, I created the 'Support and Useful links' section with links to a range of useful sites and information sites.  In the future, some of this information can be put on the site, to make it more accessible. These links were flagged by the WCAG accessibility for not having enough contrast, So I put each link into a hollow button.
@@ -97,7 +97,7 @@ Underneath the Individual Cards section, I created the 'Support and Useful links
 
 These sections had different background colours to denote different sections.  
 
-![alt text="screenshot of Support section and tips section](support-tips-screenshot.png)
+![alt text="screenshot of Support section and tips section](assets/images/support-tips-screenshot.png)
 
 
 ### Footer
@@ -106,7 +106,7 @@ The footer was created with this prompt - "Create a footer with contact, address
 The footer includes the contact section, quick links and Social Media links.  
 The GET HELP NOW button is also repeated here, and links directly to the NHS mental health servicespage
 
-![="screenshot of the footer"](footer-screenshot.png)
+![="screenshot of the footer"](assets/images/footer-screenshot.png)
 
 
 
